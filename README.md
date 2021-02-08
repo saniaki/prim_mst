@@ -11,11 +11,9 @@ More information on minimum spannig trees, Prim's algorithm and heap data struct
 What is minimum spannig tree: <br/>
 https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/ <br/>
 <br/>
-<br/>
 What is Prim's algorithm: <br/>
 https://www.programiz.com/dsa/prim-algorithm <br/>
 https://bradfieldcs.com/algos/graphs/prims-spanning-tree-algorithm/ <br/>
-<br/>
 <br/>
 What is heap data structure: <br/>
 https://www.programiz.com/dsa/heap-data-structure <br/>
