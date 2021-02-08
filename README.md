@@ -9,6 +9,7 @@ The algorithm is heap based version of the Prim's algorithm. The input file file
 <br/>
 <br/>
 
+### Some references <br/>
 More information on minimum spannig trees, Prim's algorithm and heap data structure: <br/>
 What is minimum spannig tree: <br/>
 https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/ <br/>
