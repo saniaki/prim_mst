@@ -9,16 +9,16 @@ The algorithm is heap based version of the Prim's algorithm. The input file file
 <br/>
 <br/>
 
-More information on minimum spannig tress, Prim's algorithm and heap data structure: <br/>
-What is minimum spannig tres:
+More information on minimum spannig trees, Prim's algorithm and heap data structure: <br/>
+What is minimum spannig tree: <br/>
 https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/ <br/>
 <br/>
 <br/>
-What is Prim's algorithm
+What is Prim's algorithm: <br/>
 https://www.programiz.com/dsa/prim-algorithm <br/>
 https://bradfieldcs.com/algos/graphs/prims-spanning-tree-algorithm/ <br/>
 <br/>
 <br/>
-What is heap data structure:
+What is heap data structure: <br/>
 https://www.programiz.com/dsa/heap-data-structure <br/>
 https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/tutorial/ <br/>
